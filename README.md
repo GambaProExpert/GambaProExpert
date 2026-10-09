@@ -13,6 +13,7 @@ Os invito a echarle un vistazo a mi web personal www.gambalocal.es donde cuento 
 <br>
 <img src="assets/sep-about-me.jpg" alt="About me" width="100%">
 <br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m interested in everything related to systems, networking, and security: building infrastructure, understanding how it can be compromised, and designing it so it’s maintainable. My capstone project focuses on that area: securing self-hosted AI based on open models, including access control, identity, and monitoring.
 
 I also have software development experience and have worked on several projects, including ERP systems (invoicing modules, document management, intranet user management, and advanced search), ticketing systems for university residence halls (the “The Sellator” repository is the related project), an online store, and a few personal projects focused more on the visual aspects of web interfaces. For web development, the stack I’ve used most is Vue 2/3, Laravel 8/9/13, and MySQL for relational database management.

@@ -5,13 +5,7 @@
 <br>
 Mi laboratorio en casa funciona sobre **Proxmox**: cada servicio vive en su propio contenedor LXC, la red tiene DNS propio y el acceso desde fuera va por VPN, sin abrir puertos de más.
 <br>
-<p>
-  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-1c1913?style=for-the-badge&logo=proxmox&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-1c1913?style=for-the-badge&logo=debian&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-1c1913?style=for-the-badge&logo=tailscale&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
-  <img alt="Pi-hole" src="https://img.shields.io/badge/Pi--hole-1c1913?style=for-the-badge&logo=pihole&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
-  <img alt="Immich" src="https://img.shields.io/badge/Immich-1c1913?style=for-the-badge&logo=immich&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
-</p>
+
 
 <img src="assets/sep-sobre-mi.png" alt="Sobre mí" width="100%">
 
@@ -21,13 +15,22 @@ Me interesa todo lo que tiene que ver con **sistemas, redes y seguridad**: monta
 
 Os invito a echarle un vistazo a mi web personal www.gambalocal.es donde cuento con un proyecto de servicios auto-alojados muy interesantes y además podréis saber algo más de mí.
 <br>
-
+<img src="assets/sep-sobre-mi.png" alt="Sobre mí" width="100%">
+<br>
 I’m interested in everything related to systems, networking, and security: building infrastructure, understanding how it can be compromised, and designing it so it’s maintainable. My capstone project focuses on that area: securing self-hosted AI based on open models, including access control, identity, and monitoring.
 
 I also have software development experience and have worked on several projects, including ERP systems (invoicing modules, document management, intranet user management, and advanced search), ticketing systems for university residence halls (the “The Sellator” repository is the related project), an online store, and a few personal projects focused more on the visual aspects of web interfaces. For web development, the stack I’ve used most is Vue 2/3, Laravel 8/9/13, and MySQL for relational database management.
 
 Feel free to check out my personal website at www.gambalocal.es, where you can learn about some interesting self-hosted services I run and find out a little more about me.
 
+<br>
+<p>
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-1c1913?style=for-the-badge&logo=proxmox&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-1c1913?style=for-the-badge&logo=debian&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-1c1913?style=for-the-badge&logo=tailscale&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
+  <img alt="Pi-hole" src="https://img.shields.io/badge/Pi--hole-1c1913?style=for-the-badge&logo=pihole&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
+  <img alt="Immich" src="https://img.shields.io/badge/Immich-1c1913?style=for-the-badge&logo=immich&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
+</p>
 <br>
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1c1913?style=flat-square&logo=linux&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">

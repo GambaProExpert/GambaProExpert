@@ -1,14 +1,10 @@
 <div align="center">
   <img src="assets/hero.png" alt="Hola, soy Sergio Sánchez Valero — Homelab GambaLocal, mi pequeño datacenter en casa" width="100%">
 </div>
-
 <br>
-Mi laboratorio en casa funciona sobre **Proxmox**: cada servicio vive en su propio contenedor LXC, la red tiene DNS propio y el acceso desde fuera va por VPN, sin abrir puertos de más.
 <br>
-
-
 <img src="assets/sep-sobre-mi.png" alt="Sobre mí" width="100%">
-
+<br>
 Estudio el **Grado en Ingeniería Informática** en la **ESIIAB** (Albacete), en la mención de **Tecnologías de la Información**, y estoy en mi último año.
 
 Me interesa todo lo que tiene que ver con **sistemas, redes y seguridad**: montar infraestructura, entender cómo se rompe y dejarla de forma que se pueda mantener. Mi TFG va por ahí: la seguridad de la **IA autoalojada** con modelos abiertos (acceso, identidad y monitorización). Cuento también con experiencia en el desarrollo software, he trabajado en varios proyectos sobre ERPs (módulos de facturación, gestión de documentos, gestión de usuarios de intranet y buscadores avanzados), motores de sellado para Colegios Mayores (El repositorio "The Sellator" es el proyecto relacionado), tienda online y algún proyecto personal más enfocado en aspectos visuales de interfaces web. En el desarrollo web, el Stack que más he utilizado ha sido Vue 2/3 + Laravel 8/9/13 y con MySQL como sistema de gestión de bases de datos relacionales.

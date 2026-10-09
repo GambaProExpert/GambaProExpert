@@ -3,9 +3,6 @@
 </div>
 
 <br>
-
-<img src="assets/sep-nodos.png" alt="Nodos" width="100%">
-
 Mi laboratorio en casa funciona sobre **Proxmox**: cada servicio vive en su propio contenedor LXC, la red tiene DNS propio y el acceso desde fuera va por VPN, sin abrir puertos de más.
 
 <p>
@@ -15,16 +12,6 @@ Mi laboratorio en casa funciona sobre **Proxmox**: cada servicio vive en su prop
   <img alt="Pi-hole" src="https://img.shields.io/badge/Pi--hole-1c1913?style=for-the-badge&logo=pihole&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
   <img alt="Immich" src="https://img.shields.io/badge/Immich-1c1913?style=for-the-badge&logo=immich&logoColor=e8a141&labelColor=0e0c0a&color=3a3224">
 </p>
-
-<img src="assets/sep-servicios.png" alt="Servicios" width="100%">
-
-| Servicio | Para qué |
-|:--|:--|
-| **Proxmox VE** | Virtualización y contenedores LXC para todo lo demás |
-| **Pi-hole** | DNS de la red local y bloqueo de publicidad |
-| **Immich** | Fotos y vídeos propios, con app móvil |
-| **Reverse proxy** | Publicar los servicios con dominio propio |
-| **Tailscale** | VPN para llegar al homelab desde cualquier sitio |
 
 <img src="assets/sep-sobre-mi.png" alt="Sobre mí" width="100%">
 

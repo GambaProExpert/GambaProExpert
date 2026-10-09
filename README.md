@@ -11,7 +11,7 @@ Me interesa todo lo que tiene que ver con **sistemas, redes y seguridad**: monta
 
 Os invito a echarle un vistazo a mi web personal www.gambalocal.es donde cuento con un proyecto de servicios auto-alojados muy interesantes y además podréis saber algo más de mí.
 <br>
-<img src="assets/sep-sobre-mi.png" alt="Sobre mí" width="100%">
+<img src="assets/sep-about-me.jpg" alt="About me" width="100%">
 <br>
 I’m interested in everything related to systems, networking, and security: building infrastructure, understanding how it can be compromised, and designing it so it’s maintainable. My capstone project focuses on that area: securing self-hosted AI based on open models, including access control, identity, and monitoring.
 
